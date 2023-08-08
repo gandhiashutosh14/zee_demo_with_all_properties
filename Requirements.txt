@@ -1,0 +1,10 @@
+Flask
+azure-cognitiveservices-speech
+opencv-python-headless
+pydub
+boto3
+moviepy
+torch
+Pillow
+opencv-python-headless
+pandas
